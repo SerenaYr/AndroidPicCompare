@@ -1,5 +1,5 @@
 ﻿  main.cpp
-d:\serena\internship\androidpiccompare\androidpiccompare\main.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\serena\internship\androidpiccompare\androidpiccompare\main.cpp(17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
   DealImageUtil.cpp
 d:\serena\internship\androidpiccompare\androidpiccompare\dealimageutil.cpp(86): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
   正在生成代码...
