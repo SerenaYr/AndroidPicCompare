@@ -1,7 +1,7 @@
 ﻿  main.cpp
-d:\serena\internship\androidpiccompare\androidpiccompare\main.cpp(17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\serena\internship\androidwholepiccompare\androidpiccompare\main.cpp(17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
   DealImageUtil.cpp
-d:\serena\internship\androidpiccompare\androidpiccompare\dealimageutil.cpp(86): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\serena\internship\androidwholepiccompare\androidpiccompare\dealimageutil.cpp(86): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
   正在生成代码...
-  AndroidPicCompare.vcxproj -> D:\Serena\Internship\AndroidPicCompare\Debug\AndroidPicCompare.exe
-  AndroidPicCompare.vcxproj -> D:\Serena\Internship\AndroidPicCompare\Debug\AndroidPicCompare.pdb (Partial PDB)
+  AndroidPicCompare.vcxproj -> D:\Serena\Internship\AndroidWholePicCompare\Debug\AndroidPicCompare.exe
+  AndroidPicCompare.vcxproj -> D:\Serena\Internship\AndroidWholePicCompare\Debug\AndroidPicCompare.pdb (Partial PDB)
